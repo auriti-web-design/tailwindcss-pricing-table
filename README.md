@@ -1,13 +1,14 @@
-# TailwindCSS responsive pricing Tables
+# TailwindCSS responsive pricing Tables 
 ---
 
-## Free tailwindcss responsive pricing tables
+## Free tailwindcss responsive pricing tables :fire:
 
 ---
 
-Here are three simple price tables built with the tailwindcss framework. The tables were created using css grid and flexbox. To see the compiled code you need to install tailwind inside the project folder with this instruction ``` npm install -D tailwindcss ```. Then create a configuration file with this code ```npx tailwindcss init ``` and configure the tailwind.config.js file like this:
+Here are three simple price tables built with the **tailwindcss framework**. The tables were created using **css grid** and **flexbox**. To see the compiled code you need to install tailwind inside the project folder with this instruction `` npm install -D tailwindcss ``. Then create a configuration file with this code ``npx tailwindcss init `` and configure the tailwind.config.js file like this:
+---
 
-```
+```javascript
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -19,4 +20,6 @@ module.exports = {
   plugins: [],
 }
 ```
-If you have doubts or problems with tailwind, refer to the official documentation that you find [here](https://tailwindcss.com/).
+---
+
+If you have doubts or problems with tailwind, refer to the official documentation that you find [here](https://tailwindcss.com/). :smiley:
